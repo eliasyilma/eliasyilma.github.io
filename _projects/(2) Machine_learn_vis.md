@@ -15,5 +15,5 @@ Here's a video demonstrating the software.
 ![search](https://github.com/eliasyilma/eliasyilma.github.io/blob/master/_data/NN_screen_shot_2.JPG)
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Go to Project Home" %}
+{% include elements/button.html link="https://github.com/eliasyilma/NN-Playground" text="Go to Project Home" %}
 </p>

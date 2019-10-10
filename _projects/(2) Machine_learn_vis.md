@@ -1,9 +1,9 @@
 ---
 name: Neural Network Playground
 tools: [Java, JavaFX]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
+image: https://github.com/eliasyilma/eliasyilma.github.io/blob/master/_data/NN_screen_shot.JPG
 description: A Java implementation of Tensorflow's Playground for visualizing neural networks. 
-external_url: https://github.com/eliasyilma/NN-Playground
+external_url: https://github.com/eliasyilma/eliasyilma.github.io/blob/master/_projects/(2)%20Machine_learn_vis.md
 ---
 # NEURAL NETWORK PLAYGROUND
 This project is a direct reimplementation of Tensorflow's "Playground" project used for visualizing simple multilayer perceptrons. I hope you enjoy tinkering with it, as much as I had fun building it. 

@@ -1,10 +1,17 @@
-- title: Assistant Lecturer, Addis Ababa Instiute of Technology
+- title: Student, Harvard CS
   from: 2014
-  to: 2017
-  description: I was responsible for delivering lectures in various engineering and computer science courses,
-  as well as advising students on their semester projects and BSC. Thesis.
-  
-- title: Lecturer, Addis Ababa Institute of Technology
-  from: 2017
+  to: 2018
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- title: Software Engineer, Google, UK
+  from: 2018
   to: present
-  description: I teach programming and computational methods to undergraduate students, in addition to advising students on their semester projects and participating in research projects of the institute.
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.

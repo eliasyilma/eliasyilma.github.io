@@ -10,11 +10,6 @@ This project is a direct reimplementation of Tensorflow's "Playground" project u
 ![preview](https://i.pinimg.com/originals/1d/a5/97/1da597acb9ad2fb65da09950abf46511.jpg)
 
 Here's a video demonstrating the software.
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)]
-(https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
-
-
-(https://youtu.be/vqhjql8irhg)
 [![Neural Network Playground in Java](http://img.youtube.com/vi/vqhjql8irhg/0.jpg)]
 (http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Neural Network Playground in Java")
 

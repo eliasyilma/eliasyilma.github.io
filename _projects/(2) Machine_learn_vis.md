@@ -10,7 +10,7 @@ This project is a direct reimplementation of Tensorflow's "Playground" project u
 ![preview](https://i.pinimg.com/originals/1d/a5/97/1da597acb9ad2fb65da09950abf46511.jpg)
 
 Here's a video demonstrating the software.
-
+(https://youtu.be/vqhjql8irhg)
 ![search](https://youtu.be/vqhjql8irhg)
 
 <p class="text-center">

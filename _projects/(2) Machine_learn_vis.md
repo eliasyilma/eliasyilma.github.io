@@ -11,7 +11,7 @@ This project is a direct reimplementation of Tensorflow's "Playground" project u
 
 Here's a video demonstrating the software.
 [![Neural Network Playground in Java](http://img.youtube.com/vi/vqhjql8irhg/0.jpg)]
-(http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Neural Network Playground in Java")
+(http://www.youtube.com/watch?v=vqhjql8irhg "Neural Network Playground in Java")
 
 <p class="text-center">
 {% include elements/button.html link="https://github.com/eliasyilma/NN-Playground" text="Go to Project Home" %}

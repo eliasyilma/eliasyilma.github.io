@@ -9,10 +9,7 @@ This project is a direct reimplementation of Tensorflow's "Playground" project u
 
 ![preview](https://i.pinimg.com/originals/1d/a5/97/1da597acb9ad2fb65da09950abf46511.jpg)
 
-Here's a video demonstrating the software.
-[![Neural Network Playground in Java](http://img.youtube.com/vi/vqhjql8irhg/0.jpg)]
-( "Neural Network Playground in Java")
-
+Here's a video demonstrating the software:
 [![NN Playground](http://img.youtube.com/vi/vqhjql8irhg/0.jpg)](http://www.youtube.com/watch?v=vqhjql8irhg "Neural Network Playground in Java")
 
 <p class="text-center">

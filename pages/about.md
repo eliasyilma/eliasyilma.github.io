@@ -19,6 +19,4 @@ I'm a lecturer and researcher in structural engineering and computational scienc
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 
-<div class="row">
-{% include about/timeline.html %}
-</div>
+

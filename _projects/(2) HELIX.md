@@ -7,6 +7,7 @@ https://youtu.be/9MQNW35Or_E
 ---
 
 # HELIX
+Helix is a structural optimization software that uses genetic algorithms to design cost efficient reinforced concrete buildings. The program consists of four main components: a structural analysis program for computing the internal forces and moments inside a potential structure, a genetic algorithm framework for simulating processes involving evolution, a structural fitness function evaluator for assessing the cost, strength and other parameters of a potential structural design, a graphical user interface for user interaction and displaying results 
 
 ![preview](https://i.pinimg.com/originals/1d/a5/97/1da597acb9ad2fb65da09950abf46511.jpg)
 

@@ -10,6 +10,10 @@ weight: 3
 Hi I am **{{ site.author.name }}**,<br>
 I'm a lecturer and researcher in structural engineering and computational sciences at Addis Ababa Institute of Technology with an interest in  Artificial General Intelligence, Machine Learning, Computer Vision and Natural Language Processing. Most of my research focuses on developing natural language understanding models for machines. When I'm not working, I sketch stuff, make video games and read non-fiction. 
 
+<p class="text-center">
+{% include elements/button.html link="https://eliasyilma.github.io/_data/ELIAS_Y.pdf" text="RESUME/CV" %}
+</p>
+
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}

@@ -11,7 +11,7 @@ Helix is a structural optimization software that uses genetic algorithms to desi
 
 Here's a video demonstrating how to use the software:
 
-[![HELIX](http://img.youtube.com/vi/vqhjql8irhg/0.jpg)](https://youtu.be/9MQNW35Or_E "HELIX Structural Optimization")
+[![HELIX](http://img.youtube.com/vi/9MQNW35Or_E/0.jpg)](https://youtu.be/9MQNW35Or_E "HELIX Structural Optimization")
 
 
 Screenshots:

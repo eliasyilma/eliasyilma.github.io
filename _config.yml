@@ -1,8 +1,8 @@
 ### Site Settings ###
 title               : Elias Yilma
 description         : >-                               # >- means to ignore newlines until "url:"
-                      I'm an engineer/programmer who's passionate 
-                      about machine learning and Artificial Intelligence.
+                      I'm an engineer/programmer interested in
+                      making machines think and talk.
 
 url                 : "eliasyilma.github.io"                               # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]

@@ -10,5 +10,5 @@ LANG is a natural language understanding model that uses physical simulations to
 
 Here's a video demonstrating LANG working through a few of the challenges from the FACEBOOK bAbI question answering dataset:
 
-[![LANG](http://img.youtube.com/vi/u37DV81gpFE/0.jpg)](https://youtu.be/u37DV81gpFE"Language Undertanding through Simulations")
+[![LANG](http://img.youtube.com/vi/u37DV81gpFE/0.jpg)](https://youtu.be/u37DV81gpFE)
 

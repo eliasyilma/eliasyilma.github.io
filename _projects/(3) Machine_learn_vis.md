@@ -1,21 +1,30 @@
 ---
-name: Neural Network Playground
+name: Machine Learning Playground
 tools: [Java, JavaFX]
 image: https://i.pinimg.com/originals/1d/a5/97/1da597acb9ad2fb65da09950abf46511.jpg
 description: A Java implementation of Tensorflow's Playground for visualizing neural networks.  
 ---
 # NEURAL NETWORK PLAYGROUND
-This project is a direct reimplementation of Tensorflow's "Playground" project used for visualizing simple multilayer perceptrons. I hope you enjoy tinkering with it, as much as I had fun building it. 
+
+This is an ongoing project for visualizing different machine learning algorithms. At the moment, you can find visualizers for Convolutional Neural Networks, Multi-layer Perceptrons, Regression techniques, Genetic Algorithms and K-means Clustering.
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/eliasyilma/NN-Playground" text="Go to Project Home" %}
+{% include elements/button.html link="https://github.com/eliasyilma/Machine-Learning-Playground" text="Go to Project Home" %}
 </p>
 
-Here's a video demonstrating the software:
+[DEMO : VISUALIZING MULTI-LAYER PERCEPTRONS]:
 
-[![NN Playground](http://img.youtube.com/vi/vqhjql8irhg/0.jpg)](http://www.youtube.com/watch?v=vqhjql8irhg "Neural Network Playground in Java")
+[![NN Playground](http://img.youtube.com/vi/vqhjql8irhg/0.jpg)](http://www.youtube.com/watch?v=vqhjql8irhg)
 
-Screenshots:
-![preview](https://i.pinimg.com/originals/1d/a5/97/1da597acb9ad2fb65da09950abf46511.jpg)
+[DEMO : VISUALIZING GENETIC ALGORITHMS]:
+
+[![Genetic Algorithms](http://img.youtube.com/vi/oIkvw0Y0I0Y/0.jpg)](https://youtu.be/oIkvw0Y0I0Y)
 
 
+[DEMO : REGRESSION]:
+
+[![Regression](http://img.youtube.com/vi/j0csUXUO4fk/0.jpg)](https://youtu.be/j0csUXUO4fk)
+
+[DEMO : CONVOLUTIONAL NEURAL NETWORKS]:
+
+[![CNNs](http://img.youtube.com/vi/1t9MGTco7_Q/0.jpg)](https://youtu.be/1t9MGTco7_Q)

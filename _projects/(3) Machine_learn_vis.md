@@ -4,7 +4,7 @@ tools: [Java, JavaFX]
 image: https://i.pinimg.com/originals/1d/a5/97/1da597acb9ad2fb65da09950abf46511.jpg
 description: A Java implementation of Tensorflow's Playground for visualizing neural networks.  
 ---
-# NEURAL NETWORK PLAYGROUND
+# MACHINE LEARNING PLAYGROUND
 
 This is an ongoing project for visualizing different machine learning algorithms. At the moment, you can find visualizers for Convolutional Neural Networks, Multi-layer Perceptrons, Regression techniques, Genetic Algorithms and K-means Clustering.
 

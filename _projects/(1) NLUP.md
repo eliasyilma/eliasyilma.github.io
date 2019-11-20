@@ -1,7 +1,7 @@
 ---
 name: LANG
 tools: [C#, Unity]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
+image: https://i.pinimg.com/originals/c5/4b/93/c54b93a73f0c0adebc2396bde0fcfdd8.jpg
 description: A natural language understanding model that uses physics simulations to perform inferences about the state of the world.
 ---
 # LANG
@@ -10,5 +10,5 @@ LANG is a natural language understanding model that uses physical simulations to
 
 Here's a video demonstrating LANG working through a few of the challenges from the FACEBOOK bAbI question answering dataset:
 
-[![LANG](http://img.youtube.com/vi/u37DV81gpFE/0.jpg)](https://youtu.be/u37DV81gpFE"HELIX Structural Optimization")
+[![LANG](http://img.youtube.com/vi/u37DV81gpFE/0.jpg)](https://youtu.be/u37DV81gpFE"Language Undertanding through Simulations")
 

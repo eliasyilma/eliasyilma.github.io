@@ -1,5 +1,5 @@
 ---
-name: Machine Learning Playground
+name: Neural Network Playground
 tools: [Java, JavaFX]
 image: https://i.pinimg.com/originals/1d/a5/97/1da597acb9ad2fb65da09950abf46511.jpg
 description: A Java implementation of Tensorflow's Playground for visualizing neural networks.  

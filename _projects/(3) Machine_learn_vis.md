@@ -1,7 +1,7 @@
 ---
 name: Machine Learning Playground
 tools: [Java, JavaFX]
-image: http://img.youtube.com/vi/1t9MGTco7_Q/0.jpg
+image: http://img.youtube.com/vi/oIkvw0Y0I0Y/0.jpg
 description: A collection of visualizers for Machine Learning algorithms.
 ---
 # MACHINE LEARNING PLAYGROUND
